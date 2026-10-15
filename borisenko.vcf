@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Борисенко;Юрий;Витальевич;;
+FN:Юрий Витальевич Борисенко
+ORG:ООО «Евродом Групп»
+TITLE:Генеральный директор
+TEL;TYPE=WORK,VOICE:+79034689094
+EMAIL;TYPE=WORK:evrodomgrupp@mail.ru
+URL:https://edgrupp.ru
+END:VCARD
